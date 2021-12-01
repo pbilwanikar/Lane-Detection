@@ -16,6 +16,6 @@ Input Video:
 ![Input sample](lane_detection/lane_gif.gif)
 
 
-Output Video:
+Output Image:
 
 ![Output sample](lane_detection/Screenshot%202021-12-01%20at%204.09.05%20PM.png)
